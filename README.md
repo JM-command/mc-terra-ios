@@ -47,9 +47,9 @@ Choix structurants : identité stable par `uuid` sur chaque modèle (deep links,
 Les fichiers de configuration contenant des secrets sont gitignorés. Pour builder, copier les modèles et renseigner les valeurs :
 
 ```bash
-cp MCTerra/Services/AI/AIConfig.swift.example     MCTerra/Services/AI/AIConfig.swift
-cp MCTerra/Services/Push/PushConfig.swift.example MCTerra/Services/Push/PushConfig.swift
-cp PushServer/ecosystem.config.example.cjs       PushServer/ecosystem.config.cjs
+cp config-templates/AIConfig.swift.example       MCTerra/Services/AI/AIConfig.swift
+cp config-templates/PushConfig.swift.example     MCTerra/Services/Push/PushConfig.swift
+cp config-templates/ecosystem.config.cjs.example PushServer/ecosystem.config.cjs
 ```
 
 Le proxy IA (`Proxy/`) et le serveur push (`PushServer/`) lisent leurs secrets via les variables d'environnement (`wrangler secret put`, PM2 env), jamais en dur dans le code.
