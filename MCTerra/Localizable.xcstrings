@@ -24,6 +24,18 @@
             "state" : "new",
             "value" : "%1$lld clients, %2$lld séances, %3$lld forfaits, %4$lld notes importés."
           }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld clientes, %2$lld sessões, %3$lld pacotes, %4$lld notas importados."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld clients, %2$lld sessions, %3$lld packages, %4$lld notes imported."
+          }
         }
       }
     },
@@ -220,7 +232,20 @@
       }
     },
     "Adresse" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morada"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Address"
+          }
+        }
+      }
     },
     "Affichage" : {
       "localizations" : {
@@ -271,7 +296,20 @@
       }
     },
     "Ajoute la première note de ce client avec le bouton +." : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicione a primeira nota deste cliente com o botão +."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add this client's first note with the + button."
+          }
+        }
+      }
     },
     "Ajoute la première séance de ce client." : {
       "localizations" : {
@@ -339,7 +377,20 @@
       }
     },
     "Ajouter un forfait" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar um pacote"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a package"
+          }
+        }
+      }
     },
     "Ajouter un widget sur l'écran d'accueil" : {
       "localizations" : {
@@ -534,7 +585,20 @@
       }
     },
     "Aucune note" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sem notas"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No notes"
+          }
+        }
+      }
     },
     "Aucune séance" : {
       "localizations" : {
@@ -553,7 +617,20 @@
       }
     },
     "Aucune séance aujourd'hui" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sem sessões hoje"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No sessions today"
+          }
+        }
+      }
     },
     "Aucune séance terminée pour %@." : {
       "localizations" : {
@@ -812,7 +889,20 @@
       }
     },
     "Chrono pas lancé ?" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cronómetro não iniciado?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timer not started?"
+          }
+        }
+      }
     },
     "Clair" : {
       "localizations" : {
@@ -847,7 +937,20 @@
       }
     },
     "Client absent" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cliente ausente"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Client absent"
+          }
+        }
+      }
     },
     "Client introuvable" : {
       "localizations" : {
@@ -994,7 +1097,20 @@
       }
     },
     "Coordonnées" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contactos"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contact details"
+          }
+        }
+      }
     },
     "Créer « %@ »" : {
       "localizations" : {
@@ -1153,7 +1269,20 @@
       }
     },
     "Démarrer" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        }
+      }
     },
     "Démarrer et terminer une séance" : {
       "localizations" : {
@@ -1381,7 +1510,20 @@
       }
     },
     "Données" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dados"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data"
+          }
+        }
+      }
     },
     "Durée" : {
       "localizations" : {
@@ -1400,10 +1542,36 @@
       }
     },
     "E-mail" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        }
+      }
     },
     "Écrire un e-mail" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escrever um e-mail"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write an email"
+          }
+        }
+      }
     },
     "Écris ou parle ici" : {
       "localizations" : {
@@ -1438,7 +1606,20 @@
       }
     },
     "En ligne" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Online"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Online"
+          }
+        }
+      }
     },
     "Enregistrer" : {
       "localizations" : {
@@ -1505,7 +1686,20 @@
       }
     },
     "Export impossible" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exportação impossível"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export failed"
+          }
+        }
+      }
     },
     "Exporter" : {
       "localizations" : {
@@ -1556,7 +1750,20 @@
       }
     },
     "Exporter mes données" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exportar os meus dados"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export my data"
+          }
+        }
+      }
     },
     "Fermer" : {
       "localizations" : {
@@ -1591,7 +1798,20 @@
       }
     },
     "Forfaits" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pacotes"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Packages"
+          }
+        }
+      }
     },
     "Français" : {
       "localizations" : {
@@ -1626,7 +1846,20 @@
       }
     },
     "Gratuit" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratuito"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Free"
+          }
+        }
+      }
     },
     "h" : {
       "extractionState" : "stale",
@@ -1678,10 +1911,36 @@
       }
     },
     "Import impossible" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importação impossível"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import failed"
+          }
+        }
+      }
     },
     "Import réussi" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importação concluída"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import successful"
+          }
+        }
+      }
     },
     "Importer contacts" : {
       "localizations" : {
@@ -1700,7 +1959,20 @@
       }
     },
     "Importer des données" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importar dados"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import data"
+          }
+        }
+      }
     },
     "Importer mes contacts" : {
       "localizations" : {
@@ -1735,16 +2007,68 @@
       }
     },
     "Impossible d'écrire le fichier d'export." : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível escrever o ficheiro de exportação."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't write the export file."
+          }
+        }
+      }
     },
     "Impossible d'encoder les données en JSON." : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível codificar os dados em JSON."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't encode the data to JSON."
+          }
+        }
+      }
     },
     "Impossible d'enregistrer les données importées." : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível guardar os dados importados."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't save the imported data."
+          }
+        }
+      }
     },
     "Impossible de lire le fichier sélectionné." : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível ler o ficheiro selecionado."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't read the selected file."
+          }
+        }
+      }
     },
     "Infos" : {
       "localizations" : {
@@ -1875,7 +2199,20 @@
       }
     },
     "Le fichier n'a pas le bon format (JSON MCTerra invalide)." : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O ficheiro não tem o formato correto (JSON MCTerra inválido)."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The file isn't in the right format (invalid MCTerra JSON)."
+          }
+        }
+      }
     },
     "Le menu" : {
       "localizations" : {
@@ -1910,7 +2247,20 @@
       }
     },
     "Les forfaits pré-remplissent la durée et le prix d'une nouvelle séance. Les séances déjà créées ne changent pas." : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os pacotes preenchem automaticamente a duração e o preço de uma nova sessão. As sessões já criadas não mudam."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Packages pre-fill the duration and price of a new session. Sessions already created don't change."
+          }
+        }
+      }
     },
     "Les revenus s'afficheront dès qu'une séance sera terminée." : {
       "extractionState" : "stale",
@@ -2058,7 +2408,20 @@
       }
     },
     "Mes forfaits" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os meus pacotes"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My packages"
+          }
+        }
+      }
     },
     "Mes rendez-vous aujourd'hui" : {
       "localizations" : {
@@ -2222,7 +2585,20 @@
       }
     },
     "Modifier le forfait" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar o pacote"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit package"
+          }
+        }
+      }
     },
     "Modifier le résumé" : {
       "localizations" : {
@@ -2417,10 +2793,36 @@
       }
     },
     "Nouveau forfait" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novo pacote"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New package"
+          }
+        }
+      }
     },
     "Nouvelle note" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nova nota"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New note"
+          }
+        }
+      }
     },
     "Nouvelle séance" : {
       "localizations" : {
@@ -2615,7 +3017,20 @@
       }
     },
     "Pas de séance prévue pour aujourd'hui ni à venir." : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não há sessões previstas para hoje nem futuras."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No sessions scheduled for today or upcoming."
+          }
+        }
+      }
     },
     "Passer" : {
       "localizations" : {
@@ -3146,7 +3561,20 @@
       }
     },
     "Séance en cours" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sessão a decorrer"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Session in progress"
+          }
+        }
+      }
     },
     "Séance introuvable" : {
       "localizations" : {
@@ -3181,7 +3609,20 @@
       }
     },
     "Séances du jour" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sessões de hoje"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's sessions"
+          }
+        }
+      }
     },
     "Séances payées" : {
       "localizations" : {
@@ -3216,7 +3657,20 @@
       }
     },
     "Si la séance a commencé, ouvre l'app et lance le chrono." : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se a sessão já começou, abre a app e inicia o cronómetro."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If the session has started, open the app and start the timer."
+          }
+        }
+      }
     },
     "Slug de la retraite" : {
       "extractionState" : "stale",
@@ -3381,7 +3835,20 @@
       }
     },
     "Ta séance commence" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tua sessão vai começar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your session is starting"
+          }
+        }
+      }
     },
     "Tape un nom de client, un forfait ou une note." : {
       "localizations" : {
@@ -3432,7 +3899,20 @@
       }
     },
     "Terminé" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concluído"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completed"
+          }
+        }
+      }
     },
     "Termine la séance depuis l'écran verrouillé." : {
       "localizations" : {
@@ -3851,7 +4331,20 @@
       }
     },
     "Voir la séance" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver a sessão"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View session"
+          }
+        }
+      }
     },
     "Voir les revenus (Comptabilité)" : {
       "localizations" : {
@@ -3870,7 +4363,20 @@
       }
     },
     "Voir sur Plans" : {
-
+      "localizations" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver no Mapas"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View in Maps"
+          }
+        }
+      }
     },
     "Zoom" : {
       "extractionState" : "stale",
