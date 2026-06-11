@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>GoogleSignIn</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.997181041632-nrmjatig8kclc2j01mg8741vb9u3mlir</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>ch.irixiagroup.MCTerra.deeplink</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>mcterra</string>
+			</array>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>997181041632-nrmjatig8kclc2j01mg8741vb9u3mlir.apps.googleusercontent.com</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>MC-TERRA protège le changement d'agenda par Face ID.</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>LaunchBackground</string>
+	</dict>
+</dict>
+</plist>

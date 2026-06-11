@@ -1,0 +1,14 @@
+name = "mcterra-ai"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+# Cost guard: refuse after this many requests in one UTC day.
+# Remove the [vars] block + the KV binding below if you don't want a cap.
+[vars]
+DAILY_LIMIT = "300"
+
+# KV namespace used to count daily requests (for DAILY_LIMIT).
+# After `wrangler kv namespace create RATE`, paste the printed id here.
+[[kv_namespaces]]
+binding = "RATE"
+id = "efa5854f1e4740198b24c30781e07089"
