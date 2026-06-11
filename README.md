@@ -47,8 +47,8 @@ Choix structurants : identité stable par `uuid` sur chaque modèle (deep links,
 Les fichiers de configuration contenant des secrets sont gitignorés. Pour builder, copier les modèles et renseigner les valeurs :
 
 ```bash
-cp MCTerra/Services/AI/AIConfig.example.swift   MCTerra/Services/AI/AIConfig.swift
-cp MCTerra/Services/Push/PushConfig.example.swift MCTerra/Services/Push/PushConfig.swift
+cp MCTerra/Services/AI/AIConfig.swift.example     MCTerra/Services/AI/AIConfig.swift
+cp MCTerra/Services/Push/PushConfig.swift.example MCTerra/Services/Push/PushConfig.swift
 cp PushServer/ecosystem.config.example.cjs       PushServer/ecosystem.config.cjs
 ```
 
