@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Retour depuis TestFlight
+    url: https://testflight.apple.com
+    about: Les testeurs (ex. Marta) peuvent aussi envoyer un retour directement depuis l'app TestFlight (capture d'écran + commentaire), sans passer par GitHub.

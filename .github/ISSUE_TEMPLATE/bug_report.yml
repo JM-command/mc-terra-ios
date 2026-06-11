@@ -1,0 +1,56 @@
+name: Bug
+description: Signaler un bug ou un comportement inattendu
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Que se passe-t-il ? Qu'est-ce qui ne va pas ?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Étapes pour reproduire
+      placeholder: |
+        1. Ouvrir ...
+        2. Taper sur ...
+        3. ...
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportement attendu
+      description: Qu'est-ce qui aurait dû se passer ?
+  - type: dropdown
+    id: area
+    attributes:
+      label: Zone concernée
+      options:
+        - Assistant IA
+        - Clients
+        - Séances
+        - Agenda / Google Calendar
+        - Comptabilité
+        - Notes
+        - Live Activity / push-to-start
+        - Export / import
+        - Autre
+    validations:
+      required: true
+  - type: input
+    id: build
+    attributes:
+      label: Version / build
+      placeholder: "1.0.0 (1)"
+  - type: input
+    id: device
+    attributes:
+      label: iPhone / version iOS
+      placeholder: "iPhone 15, iOS 26.x"
+  - type: textarea
+    id: extra
+    attributes:
+      label: Captures d'écran / notes
+      description: Glisse une capture ou colle un message d'erreur si tu en as.

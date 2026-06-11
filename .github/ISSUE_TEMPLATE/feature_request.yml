@@ -1,0 +1,41 @@
+name: Idée / amélioration
+description: Proposer une fonctionnalité ou une amélioration
+title: "[Idée] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Besoin / problème
+      description: Quel problème ça résout, et pour qui (Marta, admin...) ?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution proposée
+      description: Comment tu imagines que ça marche ?
+  - type: dropdown
+    id: area
+    attributes:
+      label: Zone concernée
+      options:
+        - Assistant IA
+        - Clients
+        - Séances
+        - Agenda / Google Calendar
+        - Comptabilité
+        - Notes
+        - Live Activity / push-to-start
+        - Export / import
+        - Autre
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priorité
+      options:
+        - Bloquant pour Marta
+        - Confort (utile mais pas urgent)
+        - Plus tard / idée
